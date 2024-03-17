@@ -1,0 +1,34 @@
+[
+    {
+        "question": "voces realizam entrega em apartamento?",
+        "answer": "sim, entregamos seu pedido em andares superiores, desde que ele nao ultrapasse o peso de 300 kg, para demais, as entregas sao realizadas em piso terreo. subimos ate tres lances de escadas, quando nao houverem elevadores."
+    },
+    {
+        "question": "voces entregam com embalagem para presente?",
+        "answer": "dispomos de embalagem para presente, para as compras realizadas em nossas lojas fisicas, mas para as compras realizadas na loja online, ainda nao estamos ofertando esse servico."
+    },
+    {
+        "question": "qualquer pessoa pode receber o produto que eu comprei?",
+        "answer": "o recebimento podera ser feito por porteiros, secretarias, familiares ou qualquer responsavel pelo recebimento de mercadorias no endereco indicado, desde que maior de 18 anos e mediante assinatura do comprovante de entrega e apresentacao de documento. para saber mais sobre nossa politica de entrega veja na pagina da central de atendimento ou por favor, entre em contato com um de nossos atendentes. voce pode enviar uma solicitacao por e-mail ou entrar em contato atraves do telefone 81 3338.8333. e nao esqueca de ter o numero do pedido em maos."
+    },
+    {
+        "question": "nao tenho quem receba meu produto no dia e horario planejado. o que faco?",
+        "answer": "para entregas agendadas na loja fisica, voce deve comparecer na loja onde se originou a compra. para compras realizadas no site, faremos 2 duas tentativas de entrega. para saber quando sera a proxima tentativa, pedimos que por favor, entre em contato com um de nossos atendentes..."
+    },
+    {
+        "question": "quais os tipos de entrega oferecidos pela ferreira costa?",
+        "answer": "entrega convencional: compre no site ou na loja fisica e receba os produtos no endereco informado no ato da compra.clique e retire: compre no site e retire o produto em uma de nossas lojas fisicas.entrega expressa: compre no site e receba o produto em ate 3 horas..."
+    },
+    {
+        "question": "meu pedido foi entregue parcialmente. o que faco?",
+        "answer": "no caso das compras online, voce podera receber seus produtos separadamente, em dias diferentes. a data de entrega depende da disponibilidade do produto e da data de faturamento, que pode ocorrer em momentos distintos. acompanhe o status do seu pedido em nosso site, acessando seu perfil e..."
+    },
+    {
+        "question": "qual o prazo de entrega?",
+        "answer": "o prazo de entrega varia de acordo com o cep de entrega e as dimensoes do produto. se sua compra foi realizada em nossa loja online, voce pode ver os prazos de entrega no carrinho de compras, inserindo o seu cep. ja para as compras realizadas em lojas fisicas, o prazo e de ate 10 dias uteis..."
+    },
+    {
+        "question": "meu pedido esta atrasado. o que faco?",
+        "answer": "pedimos que por favor, entre em contato com um de nossos atendentes, enviando uma solicitacao por e-mail ou atraves do telefone 81 3338.8333. e nao esqueca de ter o cpf em maos. se sua compra foi realizada em nossa loja on-line, voce tambem pode acompanhar o status do seu pedido clicando em..."
+    }
+]
